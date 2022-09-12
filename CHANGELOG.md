@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/Savid/enr-discoverer/compare/v1.0.1...v1.0.2) (2022-09-12)
+
+
+### Bug Fixes
+
+* **ci:** node gyp dep ([73aa597](https://github.com/Savid/enr-discoverer/commit/73aa5976419c11a346c4857df4b0195846ffae9d))
+
 ## [1.0.1](https://github.com/Savid/enr-discoverer/compare/v1.0.0...v1.0.1) (2022-09-12)
 
 
